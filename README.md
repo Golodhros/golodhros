@@ -1,13 +1,22 @@
 ### Hi there 👋
 
 # Hi, I'm Marcos Iglesias!
->A Staff frontend engineer delivering features that users love by mentoring, designing, and building data-driven products.
+>A Staff+ frontend engineer delivering features that users love by mentoring, designing, and building data-driven products.
 
-I have 15 years of experience developing web applications with frontend technologies in different fields, including events, transportation, e-commerce, online banking, and SaaS platforms.
+I have 17 years of experience developing web applications with frontend technologies in different fields, including events, transportation, e-commerce, online banking, and SaaS platforms.
 
 Passionate about **mentoring**, I love training the team in agile engineering practices such as code reviews, test-driven development, story mapping, and pairing.
 
 On top of all that, I enjoy creating and maintaining **Open Source Software** like [Britecharts](https://github.com/britecharts/britecharts) (charting library) and [Amundsen](https://github.com/amundsen-io/amundsen) (Data discovery and catalog). 
+
+<div align="center">
+  <a href="https://commit-history.com/Golodhros">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/Golodhros?theme=dark" />
+      <img alt="Golodhros's commit history" src="https://commit-history.com/embed/Golodhros" />
+    </picture>
+  </a>
+</div>
 
 I am also a **speaker** and **author** of ["Pro D3.js" for APress]([url](https://www.amazon.com/Pro-D3-js-Maintainable-Modular-Testable/dp/1484252020)).
 
